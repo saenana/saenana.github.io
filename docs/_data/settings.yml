@@ -174,9 +174,6 @@ portfolio-home-items:
   - image: "assets/images/portfolio/veggie-chopper.png"
     url: "#"
 
-  - image: "assets/images/portfolio/water-pump.png"
-    url: "#"
-
 # Portfolio Page
 portfolio-label:
   - { title: "Robotics", type: "robotics" }
@@ -246,11 +243,6 @@ portfolio-items:
       - type: "design"
 
   - image: "assets/images/portfolio/veggie-chopper.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-
-  - image: "assets/images/portfolio/water-pump.png"
     url: "#"
     portfolio-type:
       - type: "design"
