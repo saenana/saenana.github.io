@@ -157,23 +157,24 @@ portfolio-home-items:
   - image: "assets/images/portfolio/catbot.png"
     url: "#"
 
-  - image: "assets/images/portfolio/gen-design.png"
+  - image: "assets/images/portfolio/rr.png"
     url: "#"
 
-  - image: "assets/images/portfolio/comp-stops.png"
+  - image: "assets/images/portfolio/gen-design.png"
     url: "#"
 
   - image: "assets/images/portfolio/carbon-fiber.png"
     url: "#"
 
-  - image: "assets/images/portfolio/amr.png"
+  - image: "assets/images/portfolio/motor-dyno.png"
     url: "#"
 
 # Portfolio Page
 portfolio-label:
-  - { title: "MACHINE LEARNING", type: "learning" }
-  - { title: "ROBOTICS", type: "robotics" }
-  - { title: "MECHANICS & MATERIALS", type: "mech" }
+  - { title: "Robotics", type: "robotics" }
+  - { title: "Machine Learning", type: "learning" }
+  - { title: "Mechanical Design", type: "mech" }
+  - { title: "Materials", type: "materials" }
 
 portfolio-items:
   - image: "assets/images/portfolio/catbot.png"
@@ -217,6 +218,21 @@ portfolio-items:
       - type: "mech"
 
   - image: "assets/images/portfolio/rr.png"
+    url: "#"
+    portfolio-type:
+      - type: "mech"
+
+  - image: "assets/images/portfolio/rr-cam-cnc.png"
+    url: "#"
+    portfolio-type:
+      - type: "mech"
+
+  - image: "assets/images/portfolio/veggie-chopper.png"
+    url: "#"
+    portfolio-type:
+      - type: "mech"
+
+  - image: "assets/images/portfolio/water-pump.png"
     url: "#"
     portfolio-type:
       - type: "mech"

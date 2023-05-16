@@ -3,7 +3,6 @@ layout: about
 title: About Me
 author: Sae Na Na
 image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
 ---
 
 My name is Sae Na (pronounced Senna), and I'm a mechatronics design engineer.
