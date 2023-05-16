@@ -7,7 +7,7 @@ logo:
 author: themefisher
 description: this is meta description
 email: nasaenakate@gmail.com
-phone: +607 280 4691
+phone: +1 607 280 4691
 address: Stamford, Connecticut USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Sae Na </Senna> <br> Mechatronics & Robotics Engineer
+  hero-title: Hi! I’m Sae Na </Senna> <br> Mechatronics & Robotics Engineer
 
 social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/saenana/" }
