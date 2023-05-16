@@ -2,13 +2,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Sae Na's Portfolio
 logo:
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: nasaenakate@gmail.com
+phone: +607 280 4691
+address: Stamford, Connecticut USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -36,19 +36,17 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Sae Na <br> Mechatronics and robotics engineer
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
   - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/saenana/" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Explore my work below!
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -94,27 +92,21 @@ skills:
   - { name: Web App, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
-# Exprerience Section
+# Experience Section
 
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
-      icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      name: Mechatronics Designer,
+      icon: "icon-asml.png",
+      date: "Jan 2020 - Present",
+      organization: "ASML",
     }
   - {
-      name: UX & UI Designer,
-      icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
-    }
-  - {
-      name: Senior UI Designer,
-      icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      name: Hydraulics & Landing Gear Engineering Intern,
+      icon: "icon-honda.png",
+      date: "May 2018 - Aug 2018",
+      organization: "Honda Aircraft Company",
     }
 
 #-------------------------------
@@ -123,24 +115,14 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Master of Science in Robotics and Controls (Mechanical Engineering),
+      date: "2025",
+      organization: "Columbia University",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
-    }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: Bachelor of Science in Mechanical Engineering,
+      date: "2019",
+      organization: "Cornell University",
     }
 
 #-------------------------------
@@ -172,76 +154,72 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/catbot.png"
     url: "#"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "assets/images/portfolio/gen-design.png"
     url: "#"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "assets/images/portfolio/comp-stops.png"
     url: "#"
 
-  - image: "assets/images/portfolio/item-4.png"
+  - image: "assets/images/portfolio/carbon-fiber.png"
     url: "#"
 
-  - image: "assets/images/portfolio/item-5.png"
+  - image: "assets/images/portfolio/amr.png"
     url: "#"
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "MACHINE LEARNING", type: "learning" }
+  - { title: "ROBOTICS", type: "robotics" }
+  - { title: "MECHANICS & MATERIALS", type: "mech" }
 
 portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/catbot.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "learning"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "assets/images/portfolio/gen-design.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "mech"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "assets/images/portfolio/comp-stops.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "mech"
 
-  - image: "assets/images/portfolio/item-6.png"
+  - image: "assets/images/portfolio/carbon-fiber.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "mech"
 
-  - image: "assets/images/portfolio/item-8.png"
+  - image: "assets/images/portfolio/amr.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "robotics"
 
-  - image: "assets/images/portfolio/item-5.png"
+  - image: "assets/images/portfolio/mechatronics.png"
     url: "#"
     portfolio-type:
-      - type: "design"
+      - type: "robotics"
 
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/motor-dyno.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "mech"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "assets/images/portfolio/outreach.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+      - type: "mech"
 
-  - image: "assets/images/portfolio/item-7.png"
+  - image: "assets/images/portfolio/rr.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "mech"
 
 #-------------------------------
 # Testimonials Section
@@ -300,4 +278,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: nasaenakate@gmail.com
