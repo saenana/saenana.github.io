@@ -1,0 +1,59 @@
+Online Portfolio
+
+Hi, I'm Sae Na Na (a.k.a Kate Na), a mechatronics design engineer.
+
+Explore some of my work below on controller design and verification, high-efficiency electric vehicle design, and design for manufacturing.
+
+About
+
+Born in South Korea, I spent 11 years in a small city on a mountain in the Philippines. I moved to Ithaca, NY in 2016 to study Mechanical Engineering, with some focus on Robotics and Feedback Controls. After university, I started working in the customer escalations group in ASML, a photolithography company.
+​
+When I was in the Philippines, I went by the name "Kate Na", which I still sometimes use.
+
+​High-Efficiency Electric Vehicle
+​3rd in Shell Eco-Marathon 2019, Prototype - Battery Electric 
+https://resistanceracing.engineering.cornell.edu/
+https://www.shell.com/make-the-future/shell-ecomarathon/americas/results-and-awards.html
+
+​Generative Design
+​Featured in an Autodesk campaign and submitted for the Technical Innovation Award
+https://www.autodesk.com/campaigns/education/generative-design?mktvar004=3412529148&internalc=true
+Read the report here
+
+Engineering Outreach
+​Featured in The Hour, a local newsletter
+https://www.ctinsider.com/news/thehour/article/Norwalk-robotics-team-gets-inside-look-of-15084347.php
+
+Motor Dynamometer
+​Instrumented with strain gauges and RPM sensors, this outputs a torque vs speed plot for the motor.
+
+​Autonomous Mobile Robots
+​A 3-person simulation project to localize, map, and path-plan through a partially unknown map. Report
+
+Honda Aircraft Company
+​Developed heat transfer calculations and troubleshooting flowcharts.
+HondaJet.com
+
+Cube-Collecting Robot
+3-person project to design and prototype a robot for a competition with cost constraints
+
+Topological Optimization
+​Load-bearing chassis support for the 2019 electric vehicle
+
+Steering System
+​For our 2020 electric vehicle, the steering system includes a gearbox and wheel mounts
+
+Carbon Fiber Tube Research
+Performed tension tests on carbon fiber tubes, and studied CT scans and optical microscopy images
+
+Composite Foam Stop
+​This multi-stiffness stop is manufactured from two-part foam and 3D-printed molds
+
+CAM + 3-axis CNC
+​I worked on the CAM and CNC manufacturing of the part shown.
+
+Vegetable Chopper
+A 3-weeks, 2-person project to ideate, design, and manufacture a commercial kitchen-use prototype
+
+Water Pump
+6-person group project to design and machine a water pump to meet a spec of 4L/min
