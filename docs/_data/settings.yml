@@ -146,7 +146,7 @@ portfolio-home-items:
     url: "#"
 
   - image: "assets/images/portfolio/amr.png"
-    url: "#"
+    url: "/assets/images/portfolio/amr-report.pdf"
 
   - image: "assets/images/portfolio/mechatronics.png"
     url: "#"
@@ -207,7 +207,7 @@ portfolio-items:
       - type: "materials"
 
   - image: "assets/images/portfolio/amr.png"
-    url: "#"
+    url: "/assets/images/portfolio/amr-report.pdf"
     portfolio-type:
       - type: "robotics"
 
