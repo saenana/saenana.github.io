@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Operating a Metrology System, Lithographic Apparatus, and Methods Thereof
+date:   2022-03-02
+image:  /assets/images/blog/patent-litho.png
+author: Sae Na Na
+tags:   lithography
+---
+
+<a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022184375">WIPO: WO 2022184375 A1 </a>
+Taiwan: TW 202242564 A
+US: 63/155,592 (Inactive)
+
+Inventors: Bram van Goch, Johan Kunnen, Sae Na Na
+
+A method includes detecting data associated with a patterning device and/or a lithographic apparatus, performing an evaluation test based on the data, determining whether to proceed with exposing a substrate based on the evaluation test, selecting an action from a plurality of actions when a determination not to proceed is made, and performing the action on the patterning device and/or a lithographic apparatus.
+
