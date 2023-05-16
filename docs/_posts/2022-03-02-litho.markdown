@@ -7,9 +7,11 @@ author: Sae Na Na
 tags:   lithography
 ---
 
-<a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022184375">WIPO: WO 2022184375 A1 </a>
-Taiwan: TW 202242564 A
-US: 63/155,592 (Inactive)
+<a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022184375">World Intellectual Property Oorganization - WO 2022184375 A1 </a>
+
+Taiwan Intellectual Property Organization - TW 202242564 A
+
+United States Patent and Trademark Office - 63/155,592 (Inactive)
 
 Inventors: Bram van Goch, Johan Kunnen, Sae Na Na
 
