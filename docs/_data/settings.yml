@@ -36,10 +36,10 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Sae Na <br> Mechatronics and robotics engineer
+  hero-title: Hi! I’m <br> Sae Na </Senna> <br> Mechatronics & Robotics Engineer
 
 social:
-  - { icon: "ti-dribbble", link: "https://www.linkedin.com/in/saenana/" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/saenana/" }
 
 #-------------------------------
 # About (Section and Page)
