@@ -134,7 +134,7 @@ portfolio-home-items:
     url: "https://www.ctinsider.com/news/thehour/article/Norwalk-robotics-team-gets-inside-look-of-15084347.php"
 
   - image: "assets/images/portfolio/gen-design.png"
-    url: "#"
+    url: "/assets/images/portfolio/gen-design-report.pdf"
 
   - image: "assets/images/portfolio/robotlearning-img.png"
     url: "#"
@@ -186,7 +186,7 @@ portfolio-items:
       - type: "news"
 
   - image: "assets/images/portfolio/gen-design.png"
-    url: "#"
+    url: "/assets/images/portfolio/gen-design-report.pdf"
     portfolio-type:
       - type: "design"
       - type: "materials"
