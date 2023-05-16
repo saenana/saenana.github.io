@@ -1,23 +1,11 @@
-Online Portfolio
-
-Hi, I'm Sae Na Na (a.k.a Kate Na), a mechatronics design engineer.
-
-Explore some of my work below on controller design and verification, high-efficiency electric vehicle design, and design for manufacturing.
-
-About
-
-Born in South Korea, I spent 11 years in a small city on a mountain in the Philippines. I moved to Ithaca, NY in 2016 to study Mechanical Engineering, with some focus on Robotics and Feedback Controls. After university, I started working in the customer escalations group in ASML, a photolithography company.
-​
-When I was in the Philippines, I went by the name "Kate Na", which I still sometimes use.
-
 ​High-Efficiency Electric Vehicle
 ​3rd in Shell Eco-Marathon 2019, Prototype - Battery Electric 
 https://resistanceracing.engineering.cornell.edu/
-https://www.shell.com/make-the-future/shell-ecomarathon/americas/results-and-awards.html
+<outdated> https://www.shell.com/make-the-future/shell-ecomarathon/americas/results-and-awards.html
 
 ​Generative Design
 ​Featured in an Autodesk campaign and submitted for the Technical Innovation Award
-https://www.autodesk.com/campaigns/education/generative-design?mktvar004=3412529148&internalc=true
+<outdated> https://www.autodesk.com/campaigns/education/generative-design?mktvar004=3412529148&internalc=true
 Read the report here
 
 Engineering Outreach
