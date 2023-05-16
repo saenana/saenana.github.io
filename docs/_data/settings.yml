@@ -125,13 +125,13 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/catbot.png"
-    url: "portfolio/2023-05-16-catbot.html"
+    url: "https://youtu.be/nrEPlOXd7_k"
 
   - image: "assets/images/portfolio/rr.png"
-    url: "#"
+    url: "https://cev.engineering.cornell.edu/#/competition"
 
   - image: "assets/images/portfolio/outreach.png"
-    url: "#"
+    url: "https://www.ctinsider.com/news/thehour/article/Norwalk-robotics-team-gets-inside-look-of-15084347.php"
 
   - image: "assets/images/portfolio/gen-design.png"
     url: "#"
@@ -140,7 +140,7 @@ portfolio-home-items:
     url: "#"
     
   - image: "assets/images/portfolio/comp-stops.png"
-    url: "#"
+
 
   - image: "assets/images/portfolio/carbon-fiber.png"
     url: "#"
@@ -170,18 +170,18 @@ portfolio-label:
 
 portfolio-items:
   - image: "assets/images/portfolio/catbot.png"
-    url: "#"
+    url: "https://youtu.be/nrEPlOXd7_k"
     portfolio-type:
       - type: "robotics"
 
   - image: "assets/images/portfolio/rr.png"
-    url: "#"
+    url: "https://cev.engineering.cornell.edu/#/competition"
     portfolio-type:
       - type: "design"
       - type: "materials"
 
   - image: "assets/images/portfolio/outreach.png"
-    url: "#"
+    url: "https://www.ctinsider.com/news/thehour/article/Norwalk-robotics-team-gets-inside-look-of-15084347.php"
     portfolio-type:
       - type: "news"
 
@@ -197,7 +197,6 @@ portfolio-items:
       - type: "learning"
 
   - image: "assets/images/portfolio/comp-stops.png"
-    url: "#"
     portfolio-type:
       - type: "design"
       - type: "materials"

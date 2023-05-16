@@ -1,6 +1,6 @@
 ​High-Efficiency Electric Vehicle
 ​3rd in Shell Eco-Marathon 2019, Prototype - Battery Electric 
-https://resistanceracing.engineering.cornell.edu/
+https://cev.engineering.cornell.edu/
 <outdated> https://www.shell.com/make-the-future/shell-ecomarathon/americas/results-and-awards.html
 
 ​Generative Design
@@ -17,10 +17,6 @@ Motor Dynamometer
 
 ​Autonomous Mobile Robots
 ​A 3-person simulation project to localize, map, and path-plan through a partially unknown map. Report
-
-Honda Aircraft Company
-​Developed heat transfer calculations and troubleshooting flowcharts.
-HondaJet.com
 
 Cube-Collecting Robot
 3-person project to design and prototype a robot for a competition with cost constraints
