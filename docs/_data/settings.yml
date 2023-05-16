@@ -39,14 +39,13 @@ hero:
   hero-title: Hi! I’m <br> Sae Na <br> Mechatronics and robotics engineer
 
 social:
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/saenana/" }
+  - { icon: "ti-dribbble", link: "https://www.linkedin.com/in/saenana/" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-Explore my work below!
+blurb: Explore my work below!
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
