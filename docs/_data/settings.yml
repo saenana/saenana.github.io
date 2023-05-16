@@ -156,7 +156,7 @@ portfolio-home-items:
   - image: "assets/images/portfolio/catbot.png"
     url: "#"
 
-  - image: "assets/images/portfolio/rr.png"
+  - image: "assets/images/portfolio/rr.jpg"
     url: "#"
 
   - image: "assets/images/portfolio/gen-design.png"
@@ -165,7 +165,7 @@ portfolio-home-items:
   - image: "assets/images/portfolio/carbon-fiber.png"
     url: "#"
 
-  - image: "assets/images/portfolio/motor-dyno.png"
+  - image: "assets/images/portfolio/motor-dyno.JPG"
     url: "#"
 
 # Portfolio Page
