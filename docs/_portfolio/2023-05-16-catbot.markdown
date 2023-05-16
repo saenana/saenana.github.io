@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Building a Quadruped Catbot
+date:   2023-05-16
+image:  /assets/images/portfolio/catbot.png
+author: Sae Na Na
+---
+
+Journey video <a href="https://youtu.be/nrEPlOXd7_k">youtu.be/nrEPlOXd7_k</a>
