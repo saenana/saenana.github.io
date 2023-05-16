@@ -14,8 +14,7 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 menu:
   - { name: About, link: "/about" }
   - { name: Portfolio, link: "/portfolio" }
-  - { name: Patents, link: "/blog" }
-  - { name: Contact, link: "/contact" }
+  - { name: Patents, link: "/patents" }
 
 #-------------------------------
 # Google Analytics Section
@@ -40,7 +39,6 @@ hero:
 
 social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/saenana/" }
-  - { icon: "ti-file", link: "{{ site.baseurl }}/assets/images/Na_SaeNa_Resume.pdf" }
 
 #-------------------------------
 # About (Section and Page)
