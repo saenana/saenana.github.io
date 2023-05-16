@@ -183,12 +183,13 @@ portfolio-label:
   - { title: "ML", type: "learning" }
   - { title: "Design", type: "design" }
   - { title: "Materials", type: "materials" }
+  - { title: "News", type: "news" }
 
 portfolio-items:
   - image: "assets/images/portfolio/catbot.png"
     url: "#"
     portfolio-type:
-      - type: "learning"
+      - type: "robotics"
 
   - image: "assets/images/portfolio/rr.png"
     url: "#"
@@ -199,7 +200,7 @@ portfolio-items:
   - image: "assets/images/portfolio/outreach.png"
     url: "#"
     portfolio-type:
-      - type: "design"
+      - type: "news"
 
   - image: "assets/images/portfolio/gen-design.png"
     url: "#"
@@ -211,6 +212,7 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "design"
+      - type: "materials"
 
   - image: "assets/images/portfolio/carbon-fiber.png"
     url: "#"
@@ -231,6 +233,7 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "robotics"
+      - type: "design"
 
   - image: "assets/images/portfolio/motor-dyno.png"
     url: "#"
