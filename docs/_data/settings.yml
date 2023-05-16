@@ -125,7 +125,7 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/catbot.png"
-    url: "{{ site.baseurl }}/portfolio/2023-05-16-catbot.html"
+    url: "portfolio/2023-05-16-catbot.html"
 
   - image: "assets/images/portfolio/rr.png"
     url: "#"
