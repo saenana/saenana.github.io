@@ -2,7 +2,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Sae Na's Portfolio
+title:
 logo:
 author: themefisher
 description: this is meta description
@@ -13,8 +13,8 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
+  - { name: Patents, link: "/blog" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
@@ -36,10 +36,11 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Sae Na &lt;/Senna&gt; <br> Robotics Engineer
+  hero-title: Hi! I’m <br> Sae Na, <br> Robotics Engineer
 
 social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/saenana/" }
+  - { icon: "ti-file", link: "{{ site.baseurl }}/assets/images/Na_SaeNa_Resume.pdf" }
 
 #-------------------------------
 # About (Section and Page)
@@ -105,7 +106,7 @@ education-title: Education
 education:
   - {
       name: Master of Science in Robotics and Controls (Mechanical Engineering),
-      icon: "cornell-logo.png",
+      icon: "columbia-logo.png",
       date: "2025",
       organization: "Columbia University",
     }
@@ -148,13 +149,40 @@ portfolio-home-items:
   - image: "assets/images/portfolio/outreach.png"
     url: "#"
 
+  - image: "assets/images/portfolio/outreach.png"
+    url: "#"
+
   - image: "assets/images/portfolio/gen-design.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/comp-stops.png"
     url: "#"
 
   - image: "assets/images/portfolio/carbon-fiber.png"
     url: "#"
 
+  - image: "assets/images/portfolio/amr.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/robotlearning-img.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/mechatronics.png"
+    url: "#"
+
   - image: "assets/images/portfolio/motor-dyno.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/outreach.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/rr-steering-proto.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/veggie-chopper.png"
+    url: "#"
+
+  - image: "assets/images/portfolio/water-pump.png"
     url: "#"
 
 # Portfolio Page
@@ -169,6 +197,17 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "learning"
+
+  - image: "assets/images/portfolio/rr.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      - type: "materials"
+
+  - image: "assets/images/portfolio/outreach.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
 
   - image: "assets/images/portfolio/gen-design.png"
     url: "#"
@@ -191,6 +230,11 @@ portfolio-items:
     portfolio-type:
       - type: "robotics"
 
+  - image: "assets/images/portfolio/robotlearning-img.png"
+    url: "#"
+    portfolio-type:
+      - type: "learning"
+
   - image: "assets/images/portfolio/mechatronics.png"
     url: "#"
     portfolio-type:
@@ -205,12 +249,6 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "robotics"
-
-  - image: "assets/images/portfolio/rr.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "materials"
 
   - image: "assets/images/portfolio/rr-steering-proto.png"
     url: "#"
