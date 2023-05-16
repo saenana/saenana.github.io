@@ -115,11 +115,13 @@ education-title: Education
 education:
   - {
       name: Master of Science in Robotics and Controls (Mechanical Engineering),
+      icon: "cornell-logo.png",
       date: "2025",
       organization: "Columbia University",
     }
   - {
       name: Bachelor of Science in Mechanical Engineering,
+      icon: "cornell-logo.png",
       date: "2019",
       organization: "Cornell University",
     }
