@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m Sae Na </Senna> <br> Mechatronics & Robotics Engineer
+  hero-title: Hi! I’m <br> Sae Na </Senna> <br> Robotics Engineer
 
 social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/saenana/" }
@@ -62,10 +62,6 @@ work-process:
     icon: "assets/images/icons/design.png"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-  - title: "Deliver"
-    icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
 # My Team Section
 team:
   - title: "Jack Schenziwe"
@@ -76,10 +72,6 @@ team:
     image: "assets/images/team/member-2.png"
     designation: "Web Developer"
 
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer"
-
 #-------------------------------
 # Skills Section
 
@@ -87,8 +79,6 @@ skills-title: Skills
 skills:
   - { name: Web Design, color: "#fdb157", value: "90%" }
   - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Experience Section
@@ -143,12 +133,6 @@ services:
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: true, # Add true to select section
     }
-  - {
-      name: Interaction Design,
-      icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
-    }
 
 #-------------------------------
 # Portfolio (Section and Page)
@@ -173,8 +157,8 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
   - { title: "Robotics", type: "robotics" }
-  - { title: "Machine Learning", type: "learning" }
-  - { title: "Mechanical Design", type: "mech" }
+  - { title: "ML", type: "learning" }
+  - { title: "Design", type: "design" }
   - { title: "Materials", type: "materials" }
 
 portfolio-items:
@@ -186,17 +170,18 @@ portfolio-items:
   - image: "assets/images/portfolio/gen-design.png"
     url: "#"
     portfolio-type:
-      - type: "mech"
+      - type: "design"
+      - type: "materials"
 
   - image: "assets/images/portfolio/comp-stops.png"
     url: "#"
     portfolio-type:
-      - type: "mech"
+      - type: "design"
 
   - image: "assets/images/portfolio/carbon-fiber.png"
     url: "#"
     portfolio-type:
-      - type: "mech"
+      - type: "materials"
 
   - image: "assets/images/portfolio/amr.png"
     url: "#"
@@ -211,42 +196,38 @@ portfolio-items:
   - image: "assets/images/portfolio/motor-dyno.png"
     url: "#"
     portfolio-type:
-      - type: "mech"
+      - type: "design"
 
   - image: "assets/images/portfolio/outreach.png"
     url: "#"
     portfolio-type:
-      - type: "mech"
+      - type: "robotics"
 
   - image: "assets/images/portfolio/rr.png"
     url: "#"
     portfolio-type:
-      - type: "mech"
+      - type: "design"
+      - type: "materials"
 
   - image: "assets/images/portfolio/rr-cam-cnc.png"
     url: "#"
     portfolio-type:
-      - type: "mech"
+      - type: "design"
 
   - image: "assets/images/portfolio/veggie-chopper.png"
     url: "#"
     portfolio-type:
-      - type: "mech"
+      - type: "design"
 
   - image: "assets/images/portfolio/water-pump.png"
     url: "#"
     portfolio-type:
-      - type: "mech"
+      - type: "design"
 
 #-------------------------------
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
   - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
     designation: "CEO, Funder"
@@ -265,30 +246,6 @@ client-slider-items:
     url: "#"
 
   - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
     url: "#"
 
 #-------------------------------
