@@ -172,6 +172,11 @@ portfolio-label:
   - { title: "News", type: "news" }
 
 portfolio-items:
+  - image: "assets/images/portfolio/evolving-robots.png"
+    url: "https://youtu.be/yHAm-wvp20A"
+    portfolio-type:
+      - type: "robotics"
+    
   - image: "assets/images/portfolio/catbot.png"
     url: "https://youtu.be/nrEPlOXd7_k"
     portfolio-type:
