@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Welcome to my portfolio showcasing some of my robotics, machine learning, mechatronics, and mechanical engineering projects."
   ),
-  resumeLink: require("./assets/files/Na_SaeNa_Resume.pdf"), // Set to empty to hide the button
+  resumeLink: require("./assets/files/NaSenna_Resume.pdf"), // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
