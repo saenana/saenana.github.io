@@ -20,8 +20,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Sae Na Na",
-  title: "Hello, I'm Sae Na",
+  username: "Senna Na",
+  title: "Hello, I'm Senna",
   subTitle: emoji(
     "Welcome to my portfolio showcasing some of my robotics, machine learning, mechatronics, and mechanical engineering projects."
   ),
