@@ -101,7 +101,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Mechatronics Design Engineer",
+      role: "Senior Mechatronics Engineer",
       company: "ASML",
       companylogo: require("./assets/images/icon-asml.png"),
       date: "Jan 2020 – Present",
@@ -317,7 +317,7 @@ const educationInfo = {
       subHeader:
         "Master of Science in Mechanical Engineering (Robotics and Controls)",
       duration: "2021 - 2024",
-      desc: "Attending while working full-time"
+      desc: "Completed while working full-time"
       //descBullets: [
       //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
