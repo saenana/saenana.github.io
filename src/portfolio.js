@@ -33,7 +33,7 @@ const greeting = {
 
 const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/saenana/",
-  gmail: "nasaenakate@gmail.com",  
+  gmail: "nasaenakate@gmail.com",
   github: "https://github.com/saenana",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
