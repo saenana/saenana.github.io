@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Welcome to my portfolio showcasing some of my robotics, machine learning, mechatronics, and mechanical engineering projects."
   ),
-  resumeLink: require("./assets/files/NaSenna_Resume.pdf"), // Set to empty to hide the button
+  resumeLink: require("./containers/greeting/resume.pdf"), // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -397,7 +397,7 @@ const contactInfo = {
   title: "Contact Information",
   subtitle: "",
   number: "(607) 280-4691",
-  email_address: "sn2943@columbia.edu"
+  email_address: "nasaenakate@gmail.com"
 };
 
 // Twitter Section
