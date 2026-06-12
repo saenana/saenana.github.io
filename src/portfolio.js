@@ -316,7 +316,7 @@ const educationInfo = {
       logo: require("./assets/images/columbia-logo.png"),
       subHeader:
         "Master of Science in Mechanical Engineering (Robotics and Controls)",
-      duration: "2021 - 2025",
+      duration: "2021 - 2024",
       desc: "Attending while working full-time"
       //descBullets: [
       //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
