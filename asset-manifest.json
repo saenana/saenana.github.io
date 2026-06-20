@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.223cbb09.css",
-    "main.js": "/static/js/main.2d3dd953.js",
+    "main.js": "/static/js/main.d8bdd7b7.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.511983f8.chunk.js": "/static/js/487.511983f8.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
@@ -30,14 +30,16 @@
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/resume.pdf": "/static/media/resume.db43837e42466bb18e18.pdf",
+    "static/media/patent-wo2025045499.PNG": "/static/media/patent-wo2025045499.34b1104994004d8f51a9.PNG",
     "static/media/robotlearning-img.png": "/static/media/robotlearning-img.9073cf6cbceb589d61d7.png",
     "static/media/cornell-logo.png": "/static/media/cornell-logo.7c110bdfcbc48d589de5.png",
+    "static/media/patent-wo2022184375.PNG": "/static/media/patent-wo2022184375.280fb0c7137e142fb9d9.PNG",
     "static/media/columbia-logo.png": "/static/media/columbia-logo.62d82fea4034e197a5da.png",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.223cbb09.css.map": "/static/css/main.223cbb09.css.map",
-    "main.2d3dd953.js.map": "/static/js/main.2d3dd953.js.map",
+    "main.d8bdd7b7.js.map": "/static/js/main.d8bdd7b7.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.511983f8.chunk.js.map": "/static/js/487.511983f8.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -45,6 +47,6 @@
   },
   "entrypoints": [
     "static/css/main.223cbb09.css",
-    "static/js/main.2d3dd953.js"
+    "static/js/main.d8bdd7b7.js"
   ]
 }
