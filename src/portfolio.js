@@ -266,8 +266,7 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "Back EMF Braking",
-      subtitle:
-        "Electromotive Force Braking in a Lithographic Apparatus",
+      subtitle: "Electromotive Force Braking in a Lithographic Apparatus",
       image: require("./assets/images/patent-wo2025045499.PNG"),
       footerLink: [
         {
@@ -319,7 +318,6 @@ const educationInfo = {
     }
   ]
 };
-
 
 // Work experience section
 
