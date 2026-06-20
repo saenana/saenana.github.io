@@ -34,7 +34,7 @@ const greeting = {
 const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/saenana/",
   gmail: "nasaenakate@gmail.com",
-  github: "https://github.com/saenana",
+  // github: "https://github.com/saenana",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -93,32 +93,6 @@ const techStack = {
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
-};
-
-// Work experience section
-
-const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
-  experience: [
-    {
-      role: "Senior Mechatronics Engineer",
-      company: "ASML",
-      companylogo: require("./assets/images/icon-asml.png"),
-      date: "Jan 2020 – Present",
-      desc: " "
-      //descBullets: [
-      //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      //]
-    },
-    {
-      role: "Hydraulics and Landing Gear Intern",
-      company: "Honda Aircraft Company",
-      companylogo: require("./assets/images/icon-honda.png"),
-      date: "May 2018 – Aug 2018",
-      desc: " "
-    }
-  ]
 };
 
 /* Your Open Source Section to View Your Github Pinned Projects
@@ -286,24 +260,36 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: "Other Work",
+  title: "Patents",
   subtitle: " ",
 
   achievementsCards: [
     {
-      title: "Outreach",
+      title: "Back EMF Braking",
       subtitle:
-        "Encouraging STEM participation in local high schools by demoing engineering tests and applications",
-      image: require("./assets/images/outreach.png"),
+        "Electromotive Force Braking in a Lithographic Apparatus",
+      image: require("./assets/images/patent-wo2025045499.PNG"),
       footerLink: [
         {
-          name: "News article",
-          url: "https://www.ctinsider.com/news/thehour/article/Norwalk-robotics-team-gets-inside-look-of-15084347.php"
+          name: "WIPO Patent Link",
+          url: "https://patentscope.wipo.int/search/en/WO2025045499"
+        }
+      ]
+    },
+    {
+      title: "Reticle Load Evaluation",
+      subtitle:
+        "Operating a Metrology System, Lithographic Apparatus, and Methods Thereof",
+      image: require("./assets/images/patent-wo2022184375.PNG"),
+      footerLink: [
+        {
+          name: "WIPO Patent Link",
+          url: "https://patentscope.wipo.int/search/en/WO2022184375"
         }
       ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Education Section
@@ -330,6 +316,44 @@ const educationInfo = {
       duration: "2016 - 2019",
       desc: "Summa cum laude. Accelerated studies and graduated in 6 semesters."
       //descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    }
+  ]
+};
+
+
+// Work experience section
+
+const workExperiences = {
+  display: true, //Set it to true to show workExperiences Section
+  experience: [
+    {
+      role: "Senior Mechatronics Engineer",
+      company: "ASML",
+      companylogo: require("./assets/images/icon-asml.png"),
+      date: "Jan 2020 – Present",
+      desc: " "
+      //descBullets: [
+      //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      //]
+    },
+    {
+      role: "Mechatronics Intern",
+      company: "ASML",
+      companylogo: require("./assets/images/icon-asml.png"),
+      date: "Aug 2018 - Dec 2018, June 2019 - Sep 2019",
+      desc: " "
+      //descBullets: [
+      //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //  "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      //]
+    },
+    {
+      role: "Hydraulics and Landing Gear Intern",
+      company: "Honda Aircraft Company",
+      companylogo: require("./assets/images/icon-honda.png"),
+      date: "May 2018 – Aug 2018",
+      desc: " "
     }
   ]
 };
@@ -418,8 +442,8 @@ export {
   techStack,
   bigProjects,
   achievementSection,
-  educationInfo,
   workExperiences,
+  educationInfo,
   openSource,
   blogSection,
   talkSection,
